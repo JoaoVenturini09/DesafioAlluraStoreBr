@@ -1,4 +1,4 @@
-# DesafioAlluraStoreBr
+# DesafioAluraStoreBr
 Desafio do curso de Python para Análise de Dados da Alura
 
 Utilizando Python e algumas bibliotecas como Pandas, Seaborn, Matplotlib, realizei a análise de dados fornecidos pela Alura para identificar dentre 4 lojas, qual teve o pior resultado em um período.
